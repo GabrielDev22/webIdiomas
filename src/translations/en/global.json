@@ -1,0 +1,10 @@
+{
+    "header": {
+        "hello-world": "Hello World"
+    },
+
+    "start":{
+        "startLanguage" : "This is the login that will be changed soon to English"
+    }
+
+}
